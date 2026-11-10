@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://rv-services-lomme.allowinopenai.chatgpt.site/sitemap.xml
+Sitemap: https://zakirez.github.io/rv-services/sitemap.xml
